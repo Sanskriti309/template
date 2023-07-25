@@ -1,0 +1,28 @@
+/*CSS Reset*/
+*{
+    margin: 0;
+    padding: 0; 
+}
+
+
+/*Navigation Bar*/
+
+#navbar{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/*Navigation bar: Logo and Image*/
+
+#logo{
+margin: 23px 35px;
+}
+
+#logo img{
+height: 50px;
+margin: 23px 35px;
+
+}
+
+/*Navigation bar: List Styling*/
